@@ -1,0 +1,11 @@
+# Os vscode
+.DS_Store
+
+# Environnement
+.venv
+
+# Config vscode
+.vscode
+
+# Ignorer tous les fichiers .log
+*.log
