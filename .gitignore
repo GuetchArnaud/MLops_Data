@@ -9,3 +9,6 @@
 
 # Ignorer tous les fichiers .log
 *.log
+
+# Historique
+*.history
