@@ -7,8 +7,11 @@
 # Config vscode
 .vscode
 
-# Ignorer tous les fichiers .log
+# Ignorer tous les fichiers .log et database
 *.log
+*.postgresql
 
 # Historique
 *.history
+
+
