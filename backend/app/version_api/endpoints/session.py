@@ -1,7 +1,8 @@
-from fastapi import FastAPI
-from typing import Union
 
-router = FastAPI(
+from fastapi import APIRouter
+from typing import Any
+
+router = APIRouter(
     title= "MLops_Data"
 )
 
