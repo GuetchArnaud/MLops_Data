@@ -1,6 +1,5 @@
 from fastapi import FastAPI
-from typing import any 
-from datetime import timedelta
+from typing import Union
 
 router = FastAPI(
     title= "MLops_Data"
