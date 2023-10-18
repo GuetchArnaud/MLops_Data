@@ -1,17 +1,20 @@
 # Os vscode
-.DS_Store
+.DS_Store/
 
 # Environnement
-.venv
+.venv/
 
 # Config vscode
-.vscode
+.vscode/
 
 # Ignorer tous les fichiers .log et database
-*.log
-*.postgresql
+*.log/
+*.postgresql/
 
 # Historique
-*.history
+*.history/
+
+#Byte-compiled
+__pycache__/
 
 
